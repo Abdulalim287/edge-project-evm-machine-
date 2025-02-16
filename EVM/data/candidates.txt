@@ -1,0 +1,3 @@
+SI_NO:1  Candidate Name:ABDUL HAKIM  Mark:DARIPALLAH  Party:JAMAYAT
+SI_NO:2  Candidate Name:HAFIZ UDDIN  Mark:LANGOL  Party:JP
+SI_NO:3  Candidate Name:1  Mark:1  Party:1
